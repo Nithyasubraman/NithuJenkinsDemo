@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G+xAIJllb6/aPkAI2x6xo4MTznMBSd8oLJom7eL/9bNMejAgrfrWrDwsS8nM8g7/5n4YTUnHkGWsz3XW7+iCow==",
+  "dgSpecHash": "j+CdYwG3GqpTYwenQMI+rI3D4U+h2dQYTJsv7+GWUY0qj8WA7dk69jySPP1WHl/2S9orBIw9J5XE896oIZSdCA==",
   "success": true,
   "projectFilePath": "D:\\Practice Jenkins\\JenkinsDemo\\JenkinsDemo\\JenkinsDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nithya.subramaniyan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
